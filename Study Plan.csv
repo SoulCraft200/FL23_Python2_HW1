@@ -1,0 +1,43 @@
+Semester,Code,Course Title,Credits,Category
+1,ARAB1001,Arabic,2,UR
+1,COMP2101,Introduction to Computer Science,4,CE
+1,LANC2058,Communication in Science,3,CR
+1,MATH2107,Calculus I,4,CE
+1,SOCY1005,Oman State and People or Omani Contemporary Society,2,CE
+2,COMP2202,Fundamentals of Object Oriented Programming,3,DR
+2,ECCE3206,Digital Logic Design,3,DR
+2,MATH3340,Discrete Mathematics for Computer Science,3,AR
+2,STAT2101,Introduction to Statistics,4,CE
+2,UE1,University Elective 1,2,UE
+3,COMP3203,Introduction to Data Structures & Algorithms,3,DR
+3,COMP3501,Computer Organization & Assembly Language,4,CE
+3,COMP3700,Introduction to Web Computing,3,AR
+3,MATH2201,Linear Algebea I,1,AR
+3,STAT2102,Introduction to Probability,1,AE
+4,COMP3205,Database Systems,1,DR
+4,COMP3401,Introduction to Software Engineering,4,AR
+4,COMP3502,Computer Networks,3,AR
+4,COMP3600,Intelligent Systems,3,AR
+4,AEI,Major Elective I from other departments,1,AE
+5,COMP4100,Ethical and Skills for Computing Professionals,2,DR
+5,COMP4204,Advanced Data Structures and Alg,3,AR
+5,COMP4501,Fundamentals of Operating Systems,3,AR
+5,SRI,Specialization Requirement I,3,SR
+5,HIST1010,Oman & Islamic Civilization or Islamic Culture,2,UR
+5,MATH2109,Calculus 11,3,AR
+6,COMP4509,Introduction to Computer Security,3,AR
+6,SR 2,Specialization Requirement 2,3,SR
+6,SR3,Specialization Requirement 3,3,SR
+6,CE4,College Elective 4,4,AE
+6,UE2,University Elective 2,2,UE
+7,COMP4445,Summer Training,2,AR
+7,COMP5101,Comparative Programming Languages,3,AR
+7,SR 4,Specialization Requirement 4,3,SR
+7,SR 5,Specialization Requirement 5,3,SR
+7,SEI,Specialization Elective 1 CS course,3,SE
+7,AE2,Major Elective 2 from other departments,3,AE
+8,SR6,Specialization Requirement 6,3,SR
+8,COMP5900,Project in Computer Science,4,SR
+8,SE2,Specialization Elective 2 CS course,3,SE
+8,AE3,Major Elective CS or other departments,3,AE
+8,UE3,University Elective 3,2,UE
