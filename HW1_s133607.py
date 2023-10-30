@@ -194,6 +194,7 @@ def recomSub(list1, list2):
         if count <= 4 and i["Code"] not in sub:
             count +=1
             print("%-20s%-60s%-20d%-20s" % (i["Code"], i["Title"], i["Credit"], i["Category"]))
+    print("*" * 110)
 
 
 main()
